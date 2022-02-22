@@ -4,7 +4,16 @@ The goal of a project was to create a two octave touch piano, where user can fre
 ## Pictures of a piano
 ![image](https://user-images.githubusercontent.com/53990881/154800390-b29e93ec-9e13-4745-a82d-19b5c930b371.png)  
 ![image](https://user-images.githubusercontent.com/53990881/154800424-a89220f4-2cae-484b-a8a0-a4582ff86efb.png)
-
+## 
+* Raspberry Pi Zero
+* Adafruit MPR121 (touch sensor)
+* LED diodes
+* Buttons
+* LCD screen
+* Buzzer
+* Multiplexers
+* Wooden plywood
+* Copper tape
 ## Technologies
 * Python
 * SQL
