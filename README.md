@@ -17,3 +17,5 @@ The goal of a project was to create a two octave touch piano, where user can fre
 ## Technologies
 * Python
 * SQL
+
+© Katarzyna Badio, Anna Panfil 2021
